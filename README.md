@@ -1,5 +1,5 @@
 
-# What Is Web 3.0 & Why It Matters
+# Web 3.0 
 
 Where Web 2.0 was driven by the advent of mobile, social and cloud, Web 3.0 is built largely on three new layers of technological innovation: edge computing, decentralised data networks and artificial intelligence.
 
