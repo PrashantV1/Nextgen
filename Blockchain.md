@@ -4,8 +4,7 @@ Where Web 2.0 was driven by the advent of mobile, social and cloud, Web 3.0 is b
 
 Web 3.0 is the upcoming third generation of the internet where websites and apps will be able to process information in a smart human-like way through technologies like machine learning (ML), Big Data, decentralized ledger technology (DLT), etc. Web 3.0 was originally called the Semantic Web by World Wide Web inventor Tim Berners-Lee, and was aimed at being a more autonomous, intelligent, and open internet.
 
-![Logo](https://myappmobile.blob.core.windows.net/appdata/imgg.jpg)
-
+![imgg](https://user-images.githubusercontent.com/82022271/155574175-55de5283-e797-490e-bfdc-03ce39051909.jpg)
 
 
 
